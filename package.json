@@ -1,0 +1,14 @@
+{
+  "name": "@thoms.dubernet/style",
+  "version": "0.0.2",
+  "description": "Module for styled component",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": ["dist/**/*"],
+  "author": "thoms.dubernet@gmail.com",
+  "private": false,
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
